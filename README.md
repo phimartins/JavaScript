@@ -18,14 +18,14 @@ if (media > 5) {
 ## Operadores   
 ### Operadores de comparação em JavaScript:   
 
->   Maior   
-<   Menor   
->=  Maior ou igual a   
-<=  Menor ou igual a   
-==  Igual a    
-=== Igual e do mesmo tipo   
-!=  Diferente de    
-!== Diferente, inclusive do tipo       
+- >   Maior   
+- <   Menor   
+- >=  Maior ou igual a   
+- <=  Menor ou igual a   
+- ==  Igual a    
+- === Igual e do mesmo tipo   
+- !=  Diferente de    
+- !== Diferente, inclusive do tipo       
    
 ### Operadores Lógicos:   
 
