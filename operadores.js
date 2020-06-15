@@ -24,3 +24,4 @@ if(!(idade2 >= 18) || idade2 === 17) {
 } else {
     console.log('Deixar entrar')
 }
+
