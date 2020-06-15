@@ -16,8 +16,7 @@ if (media > 5) {
 
 Operadores   
 Operadores de comparação em JavaScript:   
-
->
+/*
 >   Maior   
 <   Menor   
 >=  Maior ou igual a   
@@ -26,7 +25,7 @@ Operadores de comparação em JavaScript:
 === Igual e do mesmo tipo   
 !=  Diferente de    
 !== Diferente, inclusive do tipo      
-   
+*/   
 Operadores Lógicos:   
 
 && "E" As duas condições devem ser verdadeiras para retornar true   
