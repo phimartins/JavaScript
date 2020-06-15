@@ -29,9 +29,9 @@ if (media > 5) {
 ```
    
 #### Operadores Lógicos:   
-
+```
 && "E" As duas condições devem ser verdadeiras para retornar true   
 || "OU" Uma das condições deve ser verdadeira para retornar true   
 ! "NÃO" Nega uma condição -- transforma verdadeiro em falso e falso em verdadeiro   
-
+```
 
