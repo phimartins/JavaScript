@@ -24,15 +24,3 @@ console.log(typeof notaAluno01) // typeoff mostra o tipo de dado de um objeto ..
 const media = (notaAluno01 + notaAluno02 + notaAluno03) / 3 
 
 console.log(media)
-
-
-
-
-
-
-
-
-
-
-
-
