@@ -17,6 +17,7 @@ if (media > 5) {
 Operadores   
 Operadores de comparação em JavaScript:   
 
+>
 >   Maior   
 <   Menor   
 >=  Maior ou igual a   
