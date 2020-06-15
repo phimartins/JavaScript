@@ -17,14 +17,14 @@ Estrutura de um if:
 Operadores   
 Operadores de comparação em JavaScript:   
 
-'''>   Maior   
+">   Maior   
 <   Menor   
 >=  Maior ou igual a   
 <=  Menor ou igual a   
 ==  Igual a    
 === Igual e do mesmo tipo   
 !=  Diferente de    
-!== Diferente, inclusive do tipo  '''    
+!== Diferente, inclusive do tipo"       
    
 Operadores Lógicos:   
 
