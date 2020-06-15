@@ -1,7 +1,7 @@
 # JavaScript Bootcamp Launch Base
 
-itens estudados:   
-Comentários, tipos de dados, calculos   
+## itens estudados:   
+### Comentários, tipos de dados, calculos   
 
 
 Condicionais   
@@ -15,8 +15,8 @@ if (media > 5) {
 }
 ```
 
-## Operadores   
-### Operadores de comparação em JavaScript:   
+### Operadores   
+#### Operadores de comparação em JavaScript:   
 ```
 - >   Maior   
 - <   Menor   
@@ -28,7 +28,7 @@ if (media > 5) {
 - !== Diferente, inclusive do tipo
 ```
    
-### Operadores Lógicos:   
+#### Operadores Lógicos:   
 
 && "E" As duas condições devem ser verdadeiras para retornar true   
 || "OU" Uma das condições deve ser verdadeira para retornar true   
