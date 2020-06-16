@@ -23,3 +23,4 @@ const media = (alunos[0].nota + alunos[1].nota + alunos[2].nota)/3
 
 console.log(`O aluno ${alunos[1].nome} tirou ${alunos[1].nota} na prova e a média da turma foi ${media}`)
 
+
