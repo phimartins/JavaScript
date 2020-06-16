@@ -79,7 +79,7 @@ const aluno01 = {
 }
 ```
 
-Dentro das `{}` armazenados suas propriedades   
+Dentro das `{}` armazenamos suas propriedades   
 
 podemos acessar atributos de obejtos como o exemplo a seguir:   
 `aluno01.nota`   
@@ -108,4 +108,5 @@ const alunos = [
 podemos acessar os valores de um array usando a indexação, que em JavaScript começa pelo 0.   
 
 Exemplo:   
+   
 ```const media = (alunos[0].nota + alunos[1].nota + alunos[2].nota)/3```
