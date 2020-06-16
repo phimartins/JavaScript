@@ -10,6 +10,8 @@
     <li>Operadores;</li>
     <li>Objetos;</li>
     <li>Arrays;</li>
+    <li>Funções e Métodos;</li>
+</ul>
 
    
 ### Condicionais   
@@ -109,4 +111,38 @@ podemos acessar os valores de um array usando a indexação, que em JavaScript c
 
 Exemplo:   
    
-```const media = (alunos[0].nota + alunos[1].nota + alunos[2].nota)/3```
+```const media = (alunos[0].nota + alunos[1].nota + alunos[2].nota)/3```   
+   
+### Desafio 3     
+
+#### Objetivo
+Crie um programa que armazena dados da empresa Rocketseat dentro de um objeto chamado `empresa`. Os dados a serem armazenados são:
+
+- Nome: Rocketseat
+- Cor: Roxo
+- Foco: Programação
+- Endereço:
+    - Rua: Rua Guilherme Gembala
+    - Número: 260   
+   
+Imprima em tela utilizando `console.log` o nome da empresa e seu endereço no seguinte formato:
+
+```
+A empresa Rocketseat está localizada em Rua Guilherme Gembala, 260
+```
+
+
+#### Solução 
+A solução está disponível no arquivo `desafio_objetos_vetores.js`   
+   
+
+### Funções e métodos   
+Estrutura de uma função:
+
+```
+function nome_da_funcao(parâmetros) {
+    return (realiza_alguma_ação) 
+}
+```
+
+Quando funções estão dentro de objetos, chamamos de método.   
