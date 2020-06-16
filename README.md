@@ -88,7 +88,7 @@ desta forma estaríamos acessando a nota do objeto aluno.
 ### Arrays   
 Arrays podem conter uma coleção de objetos.   
    
-Estruta de um array:   
+Estrutura de um array:   
 ```
 const alunos = [
     {
