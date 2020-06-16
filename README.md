@@ -56,4 +56,4 @@ Regras:
 - `SE` o sexo for feminino `E` o tempo de contribuição for `>= 30` `E` idade + tempo de contribuição `>= 85`: O programa deve exibir uma mensagem informando que a pessoa pode se aposentar;
 
 #### Solução 
-Neste desafio desenvolvi 2 soluções diferentes que estão disponíveis no arquivo desafio_aposentadoria.js
+Neste desafio desenvolvi 2 soluções diferentes que estão disponíveis no arquivo `desafio_aposentadoria.js`
