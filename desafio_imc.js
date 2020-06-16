@@ -18,3 +18,4 @@ if(imc <= 29.9) {
 } else {
     console.log(`${nome} você está acima do peso`)
 }
+
