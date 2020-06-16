@@ -41,7 +41,7 @@ Criar um programa para calcular o IMC e o nivel de obesidade da pessoa.
    
 Regras:
 - `SE` o `IMC` maior ou igual a `30`: o Programa deve exibir uma mensagem informando que a pessoa está acima do peso;
-- `SE` o `IMC` menor que `29.9`: o Programa deve exibir uma mensagem informando que a pessoa não está acima do peso;
+- `SE` o `IMC` menor que `29.9`: o Programa deve exibir uma mensagem informando que a pessoa não está acima do peso.
 
 #### Solução 
 A solução está disponível no arquivo `desafio_imc.js`   
@@ -54,6 +54,7 @@ Criar um programa para calcular a aposentadoria de uma pessoa.
 Regras:
 - `SE` o sexo for masculino `E` o tempo de contribuição for `>= 35` `E` idade + tempo de contribuição `>= 95`: O programa deve exibir uma mensagem informando que a pessoa pode se aposentar;
 - `SE` o sexo for feminino `E` o tempo de contribuição for `>= 30` `E` idade + tempo de contribuição `>= 85`: O programa deve exibir uma mensagem informando que a pessoa pode se aposentar;
+- Caso as condições acima não sejam atendidas o programa deve exibir uma mensagem informando que a pessoa não pode se aposentar.
 
 #### Solução 
 Neste desafio desenvolvi 2 soluções diferentes que estão disponíveis no arquivo `desafio_aposentadoria.js`
