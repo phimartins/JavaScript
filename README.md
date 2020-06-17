@@ -11,6 +11,7 @@
     <li>Objetos;</li>
     <li>Arrays;</li>
     <li>Funções e Métodos;</li>
+    <li>Estruturas de Repetição;</li>
 </ul>
 
    
